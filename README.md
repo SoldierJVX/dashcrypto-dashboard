@@ -71,10 +71,12 @@ java -jar .\<nome-do-jar>.jar
 
 #### Frontend
 
-Baixe o 7zip em:
+Baixe o 7z em:
 ```
 https://github.com/SoldierJVX/dashcrypto-front/releases/tag/desafio-developer
 ```
+Descompacte.\
+
 [Necessário Node e Yarn]\
 Instale um web server (como lite-server - https://github.com/johnpapa/lite-server), e rode na pasta raiz do front. Comando:
 ```
