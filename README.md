@@ -4,7 +4,7 @@
 https://github.com/qrcapital/desafios/blob/main/desafio-developer.md
 
 Até o momento foi feito os serviços base do backend usando o design de microserviços do Spring com todos eles funcionais porém somente a busca de lista de cryptos
-está sendo usada pelo front.
+está sendo usada pelo front (Os outros serviços não ficaram prontos).
 
 Front tem a tela inicial, a tela de login(sem login, só clicar no botão para acessar o dashboard) e o dashboard com o campo de busca com autocomplete buscando os dados do backend e da API.
 
